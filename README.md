@@ -12,8 +12,8 @@ Programming Languages:
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)
 
 Front-end Frameworks:
-![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=FF0000&logo=Angular&logoColor=FFFFFF)
-![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)
+![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=00008B&logo=Angular&logoColor=FFFFFF)
+![React](https://img.shields.io/static/v1?label=&message=React&color=FF0000&logo=React&logoColor=FFFFFF)
 ![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&color=61DAFB&logo=Ionic&logoColor=FFFFFF)
 
 Back-end Frameworks:
