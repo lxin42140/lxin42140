@@ -20,13 +20,11 @@ Back-end Frameworks:
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=FFFF00&logo=express&logoColor=FFFFFF)
 ![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring-Boot&color=00FF00&logo=spring&logoColor=FFFFFF)
-![Jave Enterprise Edition](https://img.shields.io/static/v1?label=&message=JakartaEE&color=008080&logo=java&logoColor=FFFFFF)
 
 Databases:
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF)
 ![PostgresSQL](https://img.shields.io/static/v1?label=&message=PostgresSQL&color=00008B&logo=PostgresSQL&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF)
 
 Machine Learning: 
 ![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF)
