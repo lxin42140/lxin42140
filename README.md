@@ -12,7 +12,7 @@ Programming Languages:
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=F7DF1E&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)
-![CPP](https://img.shields.io/static/v1?label=&message=Cpp&color=0000FF&logo=cpp&logoColor=FFFFFF)
+![CPP]([https://img.shields.io/static/v1?label=&message=CPP&color=0000FF&logo=cpp&logoColor=FFFFFF](https://img.shields.io/static/v1?label=&message=CPP&color=0000FF&logo=CPlusPlus&logoColor=FFFFFF))
 
 Front-end Frameworks:
 ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=00008B&logo=Angular&logoColor=FFFFFF)
