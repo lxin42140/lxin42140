@@ -1,8 +1,10 @@
 # Welcome to Li Xin's Github 👋🏼
 
-I am an inquisitive and innovative individual with primary interest targeting tech solutions in the enterprise landscape. I enjoy the technical work of architecting and building targetted softwares, as well as the communication and decomposition of complex business needs. 
+Primary focus: systematic trading, DeFi, digital payment solutions, and data-oriented solutions in the enterprise landscape. 
 
-Beyond enterprise solutions, I have a diverse interest in trending technologies, with emphasis in FinTech such as trading, defi and digital payment solutions. I have also explored popular technologies related to AI, mobile/web app, cloud compute and data engineering.
+I enjoy the technical work of architecting and building targetted softwares, as well as the communication and decomposition of complex business needs. 
+
+Diverse interest in exploring trending technologies related to AI, mobile/web app, cloud compute and data engineering.
 
 # 🧑🏼‍💻 Technical Skills
 
@@ -10,6 +12,7 @@ Programming Languages:
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=F7DF1E&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)
+![CPP](https://img.shields.io/static/v1?label=&message=Cpp&color=0000FF&logo=cpp&logoColor=FFFFFF)
 
 Front-end Frameworks:
 ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=00008B&logo=Angular&logoColor=FFFFFF)
