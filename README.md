@@ -1,8 +1,8 @@
 # Welcome to Li Xin's Github 👋🏼
 
-Primary focus: systematic trading, DeFi, digital payment solutions, and data-oriented solutions in the enterprise landscape. 
+Primary focus: systematic trading, DeFi, digital payment solutions, and data tooling. 
 
-I enjoy the technical work of architecting and building targetted softwares, as well as the communication and decomposition of complex business needs. Diverse interest in exploring trending technologies related to AI, mobile/web app, cloud compute and data engineering.
+I enjoy the technical work of architecting and building targetted softwares, as well as the communication and decomposition of complex business needs. Diverse interest in exploring trending technologies related to AI, mobile/web app, cloud compute, IoT, blockchain & smart contracts and data engineering.
 
 # 🧑🏼‍💻 Technical Skills
 
