@@ -1,4 +1,4 @@
-# Welcome to Li Xin's Github 👋🏼
+# Welcome! 👋🏼
 
 Primary focus: systematic trading, DeFi, digital payment solutions, and data tooling. 
 
