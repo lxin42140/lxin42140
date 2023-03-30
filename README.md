@@ -11,6 +11,7 @@ Programming Languages:
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=F7DF1E&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)
 ![CPP](https://img.shields.io/static/v1?label=&message=CPP&color=0000FF&logo=CPlusPlus&logoColor=FFFFFF)
+![Solidity](https://img.shields.io/static/v1?label=&message=Solidity&color=B2BEB5&logo=Solidity&logoColor=FFFFFF)
 
 Front-end Frameworks:
 ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=00008B&logo=Angular&logoColor=FFFFFF)
