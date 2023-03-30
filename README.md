@@ -22,6 +22,7 @@ Back-end Frameworks:
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=FFFF00&logo=express&logoColor=FFFFFF)
 ![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring-Boot&color=00FF00&logo=spring&logoColor=FFFFFF)
+![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=D3D3D3&logo=flask&logoColor=FFFFFF)
 
 Databases:
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF)
