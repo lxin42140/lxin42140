@@ -1,6 +1,6 @@
 # Welcome! 👋🏼
 
-Primary focus: algorithmic trading, data tooling, DeFi and digital payment solutions.
+Primary focus: quant dev, algorithmic trading, data tooling, DeFi and digital payment solutions.
 
 I enjoy the technical work of architecting and building efficient systems, as well as the communication and decomposition of complex business needs. Diverse interest in exploring trending technologies related to AI, mobile/web app, cloud compute, IoT, blockchain and data engineering.
 
