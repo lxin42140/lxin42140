@@ -35,5 +35,13 @@ Machine Learning:
 ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF)
 ![Scikit-learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF)
 
+Blockchain:
+![Truffle](https://img.shields.io/static/v1?label=&message=Truffle&color=5C4033&logo=Truffle&logoColor=FFFFFF)
+![Ganache](https://img.shields.io/static/v1?label=&message=Ganache&color=5C4033&logo=Ganache&logoColor=FFFFFF)
+
+IoT:
+![Microbit](https://img.shields.io/static/v1?label=&message=Microbit&color=39FF14&logo=Ganache&logoColor=FFFFFF)
+![Raspberry Pi](https://img.shields.io/static/v1?label=&message=Raspberry%20Pi&color=8b0000&logo=Ganache&logoColor=FFFFFF)
+
 Version Control:
 ![Git](https://img.shields.io/static/v1?label=&message=Git&color=FF0000&logo=git&logoColor=FFFFFF)
