@@ -1,6 +1,6 @@
 # Welcome! 👋🏼
 
-Primary focus: quant dev, DeFi and digital payment solutions.
+Primary focus: trading (execution, data, strat), DeFi and digital payment solutions.
 
 I enjoy the technical work of architecting and building efficient systems, as well as the communication and decomposition of complex business needs. Diverse & hands-on interest in exploring trending technologies related to AI, mobile/web app, cloud compute, IoT, blockchain and data engineering.
 
