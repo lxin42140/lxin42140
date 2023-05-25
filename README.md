@@ -2,8 +2,6 @@
 
 Primary focus: trading, DeFi and digital payment solutions.
 
-I enjoy the technical work of architecting and building efficient systems, as well as the communication and decomposition of complex business needs. Diverse & hands-on interest in exploring fields such as trading, AI, data engineering/tooling, mobile/web app, AIoT, and blockchain.
-
 # 🧑🏼‍💻 Technical Skills
 
 Programming Languages: 
