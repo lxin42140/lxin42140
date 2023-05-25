@@ -43,6 +43,3 @@ IoT:
 
 Data Engineering:
 ![AirFlow](https://img.shields.io/static/v1?label=&message=Airflow&color=00008B&logo=Airflow&logoColor=FFFFFF)
-
-Version Control:
-![Git](https://img.shields.io/static/v1?label=&message=Git&color=FF0000&logo=git&logoColor=FFFFFF)
