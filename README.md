@@ -1,6 +1,6 @@
 # Welcome! 👋🏼
 
-Primary focus: trading, DeFi and digital payment solutions.
+Hands-on interest in trading, AI and data-centric systems. Enjoys tinkering with different technologies through projects.
 
 # 🧑🏼‍💻 Technical Skills
 
