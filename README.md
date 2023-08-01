@@ -1,6 +1,6 @@
 # Welcome! 👋🏼
 
-Hands-on interest in trading, AI and data-centric systems. Enjoys tinkering with different technologies through projects.
+Enjoys tinkering with different technologies through projects.
 
 # 🧑🏼‍💻 Technical Skills
 
