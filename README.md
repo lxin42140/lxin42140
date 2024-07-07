@@ -1,7 +1,3 @@
-# Welcome! 👋🏼
-
-Enjoys tinkering with different technologies through projects.
-
 # 🧑🏼‍💻 Technical Skills
 
 Programming Languages: 
