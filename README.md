@@ -17,7 +17,6 @@ Front-end Frameworks:
 ![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&color=61DAFB&logo=Ionic&logoColor=FFFFFF)
 
 Back-end Frameworks:
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=FFFF00&logo=express&logoColor=FFFFFF)
 ![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring-Boot&color=00FF00&logo=spring&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=D3D3D3&logo=flask&logoColor=FFFFFF)
