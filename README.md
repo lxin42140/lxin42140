@@ -1,6 +1,6 @@
 # Fulltime Experiences
 1. Backend Software Engineer @ TikTok
-2. Software Engineer @ WeChat
+2. Software Engineer @ WeChat (Current)
 
 # Internship Experiences
 1. Research Assistant @ NUS
