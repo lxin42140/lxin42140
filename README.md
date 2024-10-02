@@ -3,14 +3,14 @@
 2. Backend Software Engineer @ TikTok
 
 # Internship Experiences
-1. Research Assistant @ NUS
-2. Software Engineer Intern @ Wright Management International Pte. Ltd
-3. Partime Software Engineer and Teaching Assistant @ NUS Computing
-4. Software Engineer Intern @ SAP
-5. Software Engineer Intern @ Alipay
-6. Algorithm Engineer Intern @ Shopee
-7. Software Engineer Intern @ Binance
-8. Research Assistant @ AISG
+1. Research Assistant @ AISG  
+2. Backend Software Engineer Intern @ Binance  
+3. Algorithm Engineer Intern @ Shopee  
+4. Backend Software Engineer Intern @ Alipay  
+5. Software Engineer Intern @ SAP  
+6. Part-time Full-stack Software Engineer and Teaching Assistant @ NUS Computing  
+7. Full-stack Software Engineer Intern @ Wright Management International Pte. Ltd  
+8. Research Assistant @ NUS  
 
 # 🧑🏼‍💻 Technical Skills
 
