@@ -1,5 +1,5 @@
 # Fulltime Experiences
-1. C++ Engineer @ WeChat (Current)
+1. C++ Engineer @ WeChat
 2. Backend Software Engineer @ TikTok
 
 # Internship Experiences
